@@ -1,0 +1,35 @@
+.top-nav-collapse {
+    background-color: #24355C;
+}
+
+.rgba-black-strong,
+.rgba-black-strong:after {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.bg {
+    background: url(images/background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.bg {
+    height: 100%;
+}
+
+.view {
+    position: relative;
+    overflow: hidden;
+    cursor: default;
+}
+
+.margin-box {
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.btn-rounded {
+    border-radius: 10em;
+}
